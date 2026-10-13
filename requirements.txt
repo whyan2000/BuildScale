@@ -1,0 +1,15 @@
+# CPU stages (features, reliability model, propagation, evaluation)
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.1
+lightgbm==4.7.0
+matplotlib==3.9.2
+shapely
+pyproj
+requests
+# VLM stage (one H100-class GPU; model: Qwen/Qwen3.6-27B)
+torch==2.14.0
+transformers==5.17.0
+accelerate==1.15.0
+pillow==12.3.0

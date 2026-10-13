@@ -1,0 +1,14 @@
+# never commit API tokens
+token_*.txt
+*.token
+# large / regenerable artefacts
+models/
+osm_tiles/
+mapillary_metadata/
+all_crops_v3/
+sat_chips_full_20261001/
+features/
+lidar/laz/
+*.err
+*.out
+__pycache__/
